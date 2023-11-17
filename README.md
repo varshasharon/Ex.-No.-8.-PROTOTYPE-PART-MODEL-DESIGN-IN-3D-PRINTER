@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/varshasharon/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/98278161/f7b03fea-db6a-4935-827d-5a5e19ff7024)
+![image](https://github.com/varshasharon/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/98278161/a6d55a20-09a2-4cd0-a2c6-7933344fcf6a)
+![image](https://github.com/varshasharon/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/98278161/fc5f99f5-f95a-4caf-800d-f93ca2ad2cb4)
 
 ### Name: E. VARSHA SHARON
 ### Register Number: 212222100058
